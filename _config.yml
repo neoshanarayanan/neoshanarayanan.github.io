@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "cropped_sari.png"
+  name             : "Neosha Narayanan"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at Georgia Tech"
   location         : "Atlanta, GA"
   employer         : "Georgia Institute of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "nnarayanan38@gatech.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "neosha.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -76,8 +76,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+  #books:
+    #title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
