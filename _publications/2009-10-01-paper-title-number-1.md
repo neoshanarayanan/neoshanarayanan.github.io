@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: https://doi.org/10.1016/j.cobme.2020.01.003
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009
+date: 2009-01-01
 venue: 'Current Opinion in Biomedical Engineering'
 citation: 'Su, I., Jung, G.S. Narayanan, N., Buehler, M. (2020). &quot;Perspectives on three-dimensional printing of self-assembling materials and structures.&quot; <i>Current Opinion in Biomedical Engineering</i>. 1(1).'
 ---
