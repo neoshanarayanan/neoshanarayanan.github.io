@@ -10,11 +10,8 @@ redirect_from:
 {% include base_path %}
 
 
-<iframe
-    src="/files/cv_narayanan_jun2026.pdf"
-    width="100%"
-    height="800px">
-</iframe>
+
+<object data="/files/cv_narayanan_june2026.pdf" width="1000" height="1000" type='application/pdf'/>
 
 
 Education
