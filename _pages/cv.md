@@ -11,8 +11,7 @@ redirect_from:
 
 
 
-<object data="/files/cv_narayanan_june2026.pdf" width="1000" height="1000" type='application/pdf'/>
-
+<object data="files/cv_narayanan_june2026.pdf" width="100%" height="1000" type='application/pdf'/>
 
 Education
 ======
