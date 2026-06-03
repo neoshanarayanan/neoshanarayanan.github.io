@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a PhD student in the Polar Geophysical Simulation Lab headed by [Winnie Chu](https://winniewychu.github.io/). I study the interactions between subglacial hydrology, bed properties, and glacier motion through a combination of modeling and radar observation. 
 
-![](images/mit-graduation.jpg)
+![](images/mit_skyline.JPG)
 
 I grew up in the woods of western Massachusetts and have always been drawn to nature. As a teenager, I was a participant in the [Joint Science Education Project](https://sites.google.com/dartmouth.edu/jsep2020/), which brought 20 high schoolers from the US, Greenland, and Denmark to Kangerlussuaq, Greenland to study polar science. This program, which is unfortunately no longer running, introduced me to not only to lifelong friends, but also polar science and to the amazing world of international scientific collaboration. 
 
