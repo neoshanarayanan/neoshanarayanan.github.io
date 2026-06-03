@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Neosha Narayanan"
 title_separator          : "-"
 name                     : &name "Neosha Narayanan"
-description              : &description "PhD student at Georgia Tech"
+description              : &description "PhD Candidate in Glaciology at Georgia Tech"
 url                      : https://neoshanarayanan.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "cropped_sari.png"
   name             : "Neosha Narayanan"
-  pronouns         : # example: "she/her"  
+  pronouns         : "they/them"  
   bio              : "PhD student at Georgia Tech"
   location         : "Atlanta, GA"
   employer         : "Georgia Institute of Technology"
   uri              : # URL
-  email            : "nnarayanan38@gatech.edu" 
+  email            : "neosha@gatech.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -37,7 +37,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-8921-4325"
   semantic         : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Neosha-Narayanan"
   scopus           : # URL
 
   # Repositories and software development
