@@ -30,7 +30,7 @@ My other interests
 
 I spend a lot of time not doing research. I'm an avid knitter and can be seen wearing a hand-knitted garment on most days, including in the hot Atlanta summer. Check out my projects on [Ravelry](https://www.ravelry.com/projects/NoseNara) or on [Instagram](https://www.instagram.com/neo.knit/). I spend the remainder of my time running, cycling, and swimming or playing violin. In college, I played with the MIT Chamber Music Society for 5 years, and now I play recreationally on my own and with friends on weekends. I'm currently trying to learn all of Bach's Sonatas and Partitas for solo violin.
 
-I've also been a photographer since I was in middle school and have had my photographs published by National Geographic Kids and in [local art galleries](https://joneslibrary.org/CivicSend/ViewMessage/message/49133) in my hometown. My photography portfolio (updated very infrequently) can be found [here](neosha.myportfolio.com).
+I've also been a photographer since I was in middle school and have had my photographs published by National Geographic Kids and in [local art galleries](https://joneslibrary.org/CivicSend/ViewMessage/message/49133) in my hometown. My photography portfolio (updated very infrequently) can be found [here](https://neosha.myportfolio.com).
 
 
 <!---
