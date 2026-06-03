@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+
+<iframe
+    src="/files/cv_narayanan_jun2026.pdf"
+    width="100%"
+    height="800px">
+</iframe>
+
+
 Education
 ======
 * Ph.D in Glacier Geophysics, Georgia Tech (expected 2028)
