@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 You can [download my CV here](/files/cv_narayanan_june2026.pdf)!
 
-<embed src="https://neoshanarayanan.github.io/files/cv_narayanan_june2026.pdf" type="application/pdf" />
+<embed src="https://github.com/neoshanarayanan/neoshanarayanan.github.io/blob/master/files/cv_narayanan_jun2026.pdf" type="application/pdf" />
 
 
 
